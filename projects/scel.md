@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/logo.png
 title: "SCEL"
 date: 2021-2022
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "My Smart Campus Energy Lab"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="img/logo.png">
 
 The Smart Campus Energy Lab (SCEL) at University of Hawaii aims to work with engineering students to assess, test, and implement sustainable technologies. 
 The current project for SCEL is to design and deploy a weatherbox that can collect, store, and send information using several specific sensors. 
