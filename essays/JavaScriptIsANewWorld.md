@@ -9,7 +9,6 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="img/javascript-736400-1.webp">
 
 ## *My perspective of Java script so far*
 
