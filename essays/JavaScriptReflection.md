@@ -11,15 +11,11 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="img/javascript-736400-1.webp">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## *My perspective of Java script so far*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+I am new to Javascript I am used to using C and C++. Javascript is a lot easier to use compared to C and C++ because it's not strictly typed. It is easier to declare variables and use functions compared to C and C++. It is still very similar to these languages since programming generally follows the same rules and syntax. However, it is different and I am still learning and getting used to the language. There were many libararies that I used in C and C++, and anytime I wanted to use their function I would have to include thier library in my code. So far in Javascript alot of functions dont require a library. Also, from what I noticed so far I also dont need to set up my code, for example, in C I would nemed to include the stdio.h library and the main function. In Javascript I could start coding right away.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
 
 ## In the context of programming
 
