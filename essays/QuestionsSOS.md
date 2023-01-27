@@ -31,7 +31,10 @@ Many people have the misconception that there are no dumb questions. However, th
 
 <br>
 <br>
-
+for index in range(0, 10, 2):
+<br>
+ print(index)
+<br>
 As you can see the question got negative votes meaning people did not like it. The OP was very vague about his/her question. It even got closed because the question needed more details and needed clarity. OP asked why their output wasn't asking and didn't even explain what the code was.
 
 <h2> Example of a Good Question: </h2>
@@ -39,4 +42,4 @@ As you can see the question got negative votes meaning people did not like it. T
 <br>
 <br>
 
-The OP asked a great question about the difference between the two methods in java. It was a good question that most people probably asked in their head. The OP was concise yet explained in detail what they knew and didn't know. The responses answered the question and it probably helped many people who clicked on the post.
+The OP asked a great question about the difference between size and length methods in java. It was a good question that most people probably asked in their head. The OP was concise yet explained in detail what they knew and didn't know. The responses answered the question and it probably helped many people who clicked on the post.
