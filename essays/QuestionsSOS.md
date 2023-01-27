@@ -41,5 +41,7 @@ As you can see the question got negative votes meaning people did not like it. T
 <a href = "https://stackoverflow.com/questions/20192843/difference-between-size-and-length-methods#:~:text=The%20reason%20is%20by%20performance,time%20than%20executing%20%3D%3D%20operator."> Good Question </a>
 <br>
 <br>
-
+What is the difference between .size() and .length ? Is .size() only for arraylists and .length only for arrays?
+  <br>
+  <br>
 The OP asked a great question about the difference between size and length methods in java. It was a good question that most people probably asked in their head. The OP was concise yet explained in detail what they knew and didn't know. The responses answered the question and it probably helped many people who clicked on the post.
