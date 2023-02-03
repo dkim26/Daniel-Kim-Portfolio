@@ -12,6 +12,7 @@ labels:
 
 ## So many scams!
 <img src="../img/man.jpg">
+<br>
 Using the internet and browsing through many unknown sites is not only dangerous but ignorant. There are many malicious sites out there that look innocent but may prompt you to download malicious software which can steal important information or destroy your computer. Today many elderly and children get attacked by these sites mostly because they bait and fish them using desirable things like “free iPhone” or “10000 Fortnite v bucks”. Alternatively, many people also fall for the “threat scams” where they would receive a message saying that their device is infected or they placed an order when they didn't. This could lead people to call these scammers and then let these scammers control their desktops resulting in them taking control.
 
 ## The Cyber Battlefield
