@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Computers: Beware of Danger!"
+title: "The Sword and Shield of Sofware Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-02
 published: true
