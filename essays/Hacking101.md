@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Sword and Shield of Sofware Engineering"
+title: "The Sword and Shield of Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-02
 published: true
@@ -9,7 +9,7 @@ labels:
   -Cybersecurity
 ---
 
-## The Sword and Shield of Sofware Engineering
+## The Sword and Shield of Software Engineering
 <img src="../img/man.jpg">
 <h2> So many scams! </h2>
 Using the internet and browsing through many unknown sites is not only dangerous but ignorant. There are many malicious sites out there that look innocent but may prompt you to download malicious software which can steal important information or destroy your computer. Today many elderly and children get attacked by these sites mostly because they bait and fish them using desirable things like “free iPhone” or “10000 Fortnite v bucks”. Alternatively, many people also fall for the “threat scams” where they would receive a message saying that their device is infected or they placed an order when they didn't. This could lead people to call these scammers and then let these scammers control their desktops resulting in them taking control.
