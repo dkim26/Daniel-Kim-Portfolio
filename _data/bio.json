@@ -35,10 +35,19 @@
       "area": "Computer Engineering (expected Spring, 2023)",
       "studyType": "B.S.",
       "startDate": "2018-08-024",
-      "endDate": "Present"
+      "endDate": "Present",
+      "courses": [
+        "EE 160 - Introduction to C",
+        "EE 205 - Object Oriented Programming",
+        "EE 260 - Introduction to Digital Design",
+        "EE 361 - Digital Systems & Computer Design",
+        "EE 468 - Operating Systems",
+        "EE 491F - Web Development"
+        "ICS 314 - Software Engineering I"
+      ]
     }
   ],
-  "clubs": [
+  "volunteer": [
     {
       "organization": "Institute of Electrical and Electronics Engineers",
       "website": "https://www.ieeeatuhm.org/",
