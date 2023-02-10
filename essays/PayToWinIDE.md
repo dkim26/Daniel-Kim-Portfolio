@@ -6,11 +6,9 @@ title: "Learning a new IDE is like falling into a new world"
 date: 2023-02-09
 published: true
 labels:
-  -Software Engineering
   -Coding Standards
 ---
 
-## Learning a new IDE is like falling into a new world
 <img src="../img/water.jpg">
 <h2> It's also like moving into a new house </h2>
 <img src="../img/house.jpg">
