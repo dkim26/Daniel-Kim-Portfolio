@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "Pay To Win IDE"
+title: "Learning a new IDE is like falling into a new world"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-09
-published: false
+published: true
 labels:
   -Software Engineering
   -Coding Standards
