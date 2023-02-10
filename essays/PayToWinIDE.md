@@ -8,9 +8,9 @@ published: true
 labels:
   -Coding Standards
 ---
-
+## Initial thoughts on being thrown into a new IDE
 <img src="../img/water.jpg">
-<h2> It's also like moving into a new house </h2>
+<h2> It's kind of like moving into a new house </h2>
 <img src="../img/house.jpg">
 This week I was introduced to many new GitHub commands and Intelliji. Before taking this software engineering class I was used to VSCode. I thought VSCode was the best IDE to use but Intelliji is really good. At first, it took a lot of practice and getting used to but the UI and the framework are fairly simple to use and it didn't take too much time to get used to. I was originally worried and lost when I first started. It's like being thrown into the water and learning how to swim or moving into a new house and learning where each room is. Sure it was shocking at first but once I got used to it I learned to adapt and eventually learned to appreciate it.
 
