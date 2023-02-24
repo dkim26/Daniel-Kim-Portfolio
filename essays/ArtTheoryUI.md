@@ -27,3 +27,5 @@ This week we did many practice problems looking at websites and replicating them
 <br>
 <img src="../img/css.png" height = 600>
 <img src="../img/boot.png" height = 600>
+<h1>My future with Bootstrap and UI design</h1>
+There is still a lof learning I need to do and I barely scratched the surface. I want to be at the level where using it is natural and I know how to design sites well. This will eventually be crucial when during the final project. In the upcoming week, I will start learning React so I am looking forward to that. I heard it is a very useful and powerful tool and combined with my previous knowledge of Bootstrap and HTML/CSS I can start making really cool stuff.
