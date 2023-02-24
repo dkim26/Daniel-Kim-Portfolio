@@ -6,7 +6,7 @@ title: "UI Framework brings the artist within"
 date: 2023-02-23
 published: true
 labels:
-  -Software Engineering
+  -Bootstrap 5
 ---
 
 <img src="../img/bootstrap.png" height = 150>
