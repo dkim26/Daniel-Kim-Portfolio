@@ -23,4 +23,5 @@ Here are a few examples of design patterns in software engineering:
 <li> Factory: We can use a function or method to instantiate an object rather than the new keyword.   </li>
 <li> Facade: API to hide other low-level details in our codebase. So by creating a facade we contain the low-level systems as dependencies and simplify their operation.  </li>
 </ol>
+
 ## Examples of Design Patterns used in code
