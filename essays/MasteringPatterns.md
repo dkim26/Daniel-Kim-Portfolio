@@ -14,6 +14,15 @@ labels:
 
 ## What are Design Patterns?
 Design is crucial everywhere whether it's in art, architecture, engineering, science, and even cooking. In software engineering, design patterns are ways for us to find a solution to a problem and design it in our code in the most efficient way possible. Design patterns require not just logic but creativity as well and it takes many years of practice to be good at it. In fact, many experienced engineers gave their input on how to make great design patterns, and their methods are used by many engineers today.   
+
+## Types of Design Patterns
+There are three types of design patterns:
+<ol>
+<li>Creational: Which are patterns designed for class instantiation. </li>  
+<li>Structural: This is used to increase the functionality of the classes without changing the composition. </li>
+ <li> Behavioral: Patterns designed depending on the class and how it communicates with others. </li>
+</ol>
+
 ## Examples of Design Patterns
 Here are a few examples of design patterns in software engineering:
 <ol>
@@ -23,5 +32,3 @@ Here are a few examples of design patterns in software engineering:
 <li> Factory: We can use a function or method to instantiate an object rather than the new keyword.   </li>
 <li> Facade: API to hide other low-level details in our codebase. So by creating a facade we contain the low-level systems as dependencies and simplify their operation.  </li>
 </ol>
-
-## Examples of Design Patterns used in code
