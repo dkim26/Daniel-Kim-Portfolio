@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Finale of my Journey in this class"
+title: "The Finale of my Journey in this Class"
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-03
 published: true
@@ -11,10 +11,10 @@ labels:
   -Web Design
 ---
 
-## The Sword and Shield of Software Engineering
-<img src="../img/man.jpg">
-<h2> So many scams! </h2>
-Using the internet and browsing through many unknown sites is not only dangerous but ignorant. There are many malicious sites out there that look innocent but may prompt you to download malicious software which can steal important information or destroy your computer. Today many elderly and children get attacked by these sites mostly because they bait and fish them using desirable things like “free iPhone” or “10000 Fortnite v bucks”. Alternatively, many people also fall for the “threat scams” where they would receive a message saying that their device is infected or they placed an order when they didn't. This could lead people to call these scammers and then let these scammers control their desktops resulting in them taking control.
+## The Finale of my Journey in this Class
+<img src="../img/goal.jpg">
+
+## My Journey
 
 ## The Cyber Battlefield
 Another type of common attack is infiltration which is done by hackers or foreign intelligence. For example, there are many news headlines where Russia or China are caught trying to spy on and steal information. So it is important for a country to have people who can defend or fight back against these attacks. Some of these attacks can lead to many people losing valuable and necessary things such as energy. This could result in a country paying a huge ransom to get its software back. 
