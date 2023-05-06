@@ -14,13 +14,14 @@ labels:
 ## The Finale of my Journey in this Class
 <img src="../img/goal.jpg">
 
-## My Journey
+## What I learned
+I learned a lot in ICS 314 and there were many topics that I was introduced to and had to learn quickly. This class was pretty challenging and fast-paced in the beginning. There were times when I would forget my assignment because there were so frequent. I started off this semester badly but eventually, once I got the hang of this class my grade just kept going up and up. Now that the semester is over looking back I am surprised by the amount of knowledge that I gained as a software engineer. There were many topics and tools that I can use in the future and it made me more confident.
 
-## The Cyber Battlefield
-Another type of common attack is infiltration which is done by hackers or foreign intelligence. For example, there are many news headlines where Russia or China are caught trying to spy on and steal information. So it is important for a country to have people who can defend or fight back against these attacks. Some of these attacks can lead to many people losing valuable and necessary things such as energy. This could result in a country paying a huge ransom to get its software back. 
+## Development Environments
 
-## Many Many Jobs
-I've always found this cyber news interesting and it made me want to pursue cybersecurity. Cybersecurity is one of the most in-demand jobs in software engineering. It is an important job that will always be exciting. Things are continuously changing and the battlefield is continuously evolving so there will always be a new challenges. It is also an important job and when used correctly you can be an important member in protecting people from those who wish to harm others.
 
-## My path in Cybersecurity
-In the future, I hope to get into this field but I also want to prepare for it. I am currently in Grey Hats and I want to gain skills that I can use to fight against hackers and create secure software so that it is safe. There are still many things I need to learn so I hope to get an entry-level job that is beginner friendly then I can work my way up to develop software. I am not sure what company I would like to join but this is definitely the sector I would like to be in.
+##Design Patterns
+j
+
+## Ethics in Software Engineering
+
