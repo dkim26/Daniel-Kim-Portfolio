@@ -24,3 +24,4 @@ We were able to create a login page where users can store their usernames and pa
 Below is an example of a blog post a user can make. They can create a post and it would show who created it and the time it was created. Other users can also comment on the post and it too shows the time the post was created. We also have a page where users can sell or auction their textbooks and it would have things like ratings and cost. It would also have a bunch of objects for the book such as the author, name, and class it is used for. The same thing is similar to the blog post users can comment on it and request to buy it.
 <hr>
 <img src="../img/food.png" height = 400>
+<hr>
