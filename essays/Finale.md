@@ -14,8 +14,8 @@ labels:
 ## The Finale of my Journey in this Class
 <img src="../img/goal.jpg">
 
-## What I learned
-I learned a lot in ICS 314 and there were many topics that I was introduced to and had to learn quickly. This class was pretty challenging and fast-paced in the beginning. There were times when I would forget my assignment because there were so frequent. I started off this semester badly but eventually, once I got the hang of this class my grade just kept going up and up. Now that the semester is over looking back I am surprised by the amount of knowledge that I gained as a software engineer. There were many topics and tools that I can use in the future and it made me more confident.
+## My experience with ICS 314
+I learned a lot in ICS 314 and there were many topics that I was introduced to and had to learn quickly. This class was pretty challenging and fast-paced in the beginning. For example, I failed the first two WODS mostly because I was careless and was nervous since it was my first time doing this type of workout. There were times when I would forget my assignment because there were so frequent. I started off this semester badly but eventually, once I got the hang of this class my grade just kept going up and up. Now that the semester is over looking back I am surprised by the amount of knowledge that I gained as a software engineer. There were many topics and tools that I can use in the future and it made me more confident.
 
 ## Development Environments
 One of the biggest things I am grateful for is utilizing the IDE that was used in this class. Inteliji is a very powerful and useful tool and it cost money but due to being a student at this university, I was able to use it for free. Inteliji is a very friendly IDE and it helps you whenever you make a mistake or are coding. I even found it to be more helpful than other IDE such as Visual Studio Code or Codeblocks. The main thing we used Inteliji for was web development, we first used HTML/CSS then transition to frameworks such as Bootstrap and React. Our final project used meteor and all the components that we learned this semester.
