@@ -24,5 +24,5 @@ I started this project for my sophomore project and we learned the basics such a
 <hr>
 <h2> Working with firmware </h2>
 The next semester for my junior project I was part of the firmware team which focused on maintaining and improving the code for the weather boxes. We were in charge of updating the codes from python 2 to python 3. We were also responsible for assisting any hardware team with their firmware or troubleshooting their problems. Our firmware was written in C++ and we mostly worked with the gateway. Near the end of the semester, we started creating a database. This databse would be used for teams like machine learning where they would use this data. Below is the blockdiagram of the software/firmware team.
-<img src="../img/softwareblock.png" height = 300>
 <hr>
+<img src="../img/softwareblock.png" height = 300>
