@@ -22,5 +22,7 @@ This was my senior project that I started in the fall of 2022 and completed in t
 <hr>
 <h2> The Big Mission </h2>
 During my time as the System Admin I added and maintained more Pis and set up the Windows Server. We were able to set up DHCP, DNS, and Time service such that our Raspberry Pi's could get their IP address automatically. Our DHCP Server is able to automatically issue IP addresses to new clients. We are able to reserve IP addresses for certain client devices using their MAC address, via the Windows Server. This eliminates the need to manually configure each individual Raspberry Pi and provides stability. The DNS Server is useful because instead of having the user refer to every device in the network by their assigned IP address, we are able to instead use a domain name. Our Time Server allows us tp distribute time to computers on protected networks. It is currently synced to ntp.hawaii.edu (UH Manoa's time server). We also stood up a database server using a Debian OS called Castle to collect logs.
+<hr>
+<h3> My SCADA Team </h3>
 <img src="../img/fall2022.jpg" height = 400>
 <hr>
