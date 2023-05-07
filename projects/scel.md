@@ -19,6 +19,7 @@ The Smart Campus Energy Lab (SCEL) at the University of Hawaii aims to work with
 <hr>
 <h2> Learning the basics </h2>
 I started this project for my sophomore project and we learned the basics such as designing the weather boxes using Eagle. I also learned how to design these weather boxes using a breadboard and did a lot of testing and work on it. I also learned how to solder and I was able to solder parts to our PCB. This was the time when we learned how to work in a team and how to start working as an engineer. It was not too stressful since it was mostly a tutorial but there were many moments were we had to troubleshoot problems. Below is the image of my 296 weatherbox schematic.
+<br>
 <img src="../img/296schematic.png" height = 350>
 <hr>
 <h2> Working with firmware </h2>
