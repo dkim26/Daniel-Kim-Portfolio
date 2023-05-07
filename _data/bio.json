@@ -32,10 +32,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2023)",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2018-08-024",
-      "endDate": "Present",
+      "endDate": "2023-05-013",
       "courses": [
         "EE 160 - Introduction to C",
         "EE 205 - Object Oriented Programming",
@@ -53,14 +53,14 @@
       "website": "https://www.ieeeatuhm.org/",
       "position": "Treasurer",
       "startDate": "2022-08-25",
-      "endDate": "Present",
+      "endDate": "2023-05-013",
       "summary": "In charge of funds and payments for the club",
     },
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2018-Present",
+      "date": "2018-2023",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     }
