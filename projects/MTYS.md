@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hawaii.png
+image: img/seal.png
 title: "Manoa Trade Your Stuff"
 date: 2023
 published: true
@@ -11,7 +11,6 @@ labels:
  - Software Engineering
 summary: "My ICS 314 team's webpage"
 ---
-<img src="../img/seal.png">
 <h2> Aloha! Welcome to Manoa Trade Your Stuff </h2>
 For my EE491F class, our final project was to create a website using Django and Heroku. We had to form a group of five and we decided to name our team Revengers. We decided to create a website that would allow UH students to sell their textbooks and post blogs. It is inspired by Meta’s Marketplace where users can sell and auction their items.  I created a draft of the front-end page and worked on styling how the front-end page would look and the user interface. I also assisted other members if they needed help such as trying to figure out how to get the textbooks to work on the site.
 <hr>
