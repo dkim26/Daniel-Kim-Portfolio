@@ -20,6 +20,7 @@ They will have two options when they land on our webpage. The first is a sign-in
 <hr>
 <h2> Profile </h2>
 The user profile page is a personalized page that displays important information about a user, such as their student ID, name, email, phone number, and position. Users can easily edit their profile by clicking the “Edit Profile” button, which allows them to update their information as needed. The profile page displays the user’s recent sales and purchases, giving them a quick and easy way to track their activity. The page includes an “About” section, where users can introduce themselves and provide additional information about their interests, hobbies, or other relevant details. This section provides a great opportunity for users to share more about themselves with their peers and build stronger connections within the community.
+<hr>
 <img src="../img/profile.png" height = 400>
 <hr>
 <h2> Categories Page </h2>
