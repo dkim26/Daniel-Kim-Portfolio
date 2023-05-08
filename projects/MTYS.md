@@ -16,7 +16,7 @@ For my ICS 314 class, our final project was to create a website that would benef
 <hr>
 <h2> Landing Page </h2>
 They will have two options when they land on our webpage. The first is a sign-in page where if they are already an existing member they can log in. The other is a register account page where new users can create an account by entering their basic information such as name, email, student ID, phone number, etc. Once they sign in they will have access to the navbar where they can start using our site.
-<img src="../img/landing.png">
+<img src="../img/landing.png" height = 400>
 <hr>
 <h2> Profile </h2>
 The user profile page is a personalized page that displays important information about a user, such as their student ID, name, email, phone number, and position. Users can easily edit their profile by clicking the “Edit Profile” button, which allows them to update their information as needed. The profile page displays the user’s recent sales and purchases, giving them a quick and easy way to track their activity. The page includes an “About” section, where users can introduce themselves and provide additional information about their interests, hobbies, or other relevant details. This section provides a great opportunity for users to share more about themselves with their peers and build stronger connections within the community.
