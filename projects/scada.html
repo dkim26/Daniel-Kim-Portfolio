@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="SCADA | Daniel Kim | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/dkim26.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Daniel Kim | Professional Portfolio">
+    <meta property="og:url" content="https://dkim26.github.io/projects/scada.html">
+    <meta property="og:title" content="SCADA | Daniel Kim | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/dkim26.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>SCADA | Daniel Kim | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Daniel Kim</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">SCADA</h1>
+ <p><img src="../img/cat.png" /></p>
+<h2> SCADA  </h2>
+<p>The UH Manoa SCADA Lab aims to create a Cybersecurity Intrusion Detection System (IDS) using a machine learning algorithm to classify network traffic as normal or abnormal, we use a Software-Defined Network (SDN) to create a custom IDS. Most of the work is done on Raspberry Pi’s. We learn and work with many things such as network ports, VLANS, and a windows active directory. Each member in the lab has their own role and mine was the Linux System Admin. However, we would collaborate and work together with other teams to get results.</p>
+<hr />
+
+<h2> CAPSTONE Project </h2>
+<p>This was my senior project that I started in the fall of 2022 and completed in the spring of 2023. As the System Admin, it is my job to create and maintain the computers (mostly Raspberry Pi’s) in the lab. Raspberry Pi’s uses Linux Operating System (OS). Every software application installed on our Pi’s is approved or installed by me. It is also the Linux System Admin’s job to constantly monitor these devices and track changes. It is the Linux Admin’s job to multi-home the Pi’s and set them up on their VLANs. VLANs are Virtual Local Area Networks which are subnets (Independent Broadcast Domains). In this lab, we have four VLANs. The first VLAN is the general VLAN which is where most of our Pi’s are connected, the second is the SDN controller, the third is the SEL[3] (Schweitzer Engineering Laboratories), and the fourth is the security VLAN. 
+<img src="../img/pi.jpg" height="200" /></p>
+<hr />
+
+<h2> The Big Mission </h2>
+<p>During my time as the System Admin I added and maintained more Pis and set up the Windows Server. We were able to set up DHCP, DNS, and Time service such that our Raspberry Pi’s could get their IP address automatically. Our DHCP Server is able to automatically issue IP addresses to new clients. We are able to reserve IP addresses for certain client devices using their MAC address, via the Windows Server. This eliminates the need to manually configure each individual Raspberry Pi and provides stability. The DNS Server is useful because instead of having the user refer to every device in the network by their assigned IP address, we are able to instead use a domain name. Our Time Server allows us tp distribute time to computers on protected networks. It is currently synced to ntp.hawaii.edu (UH Manoa’s time server). We also stood up a database server using a Debian OS called Castle to collect logs.</p>
+<hr />
+
+<h3> My SCADA Team </h3>
+<p><img src="../img/fall2022.jpg" height="400" /></p>
+<hr />
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
