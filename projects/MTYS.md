@@ -15,15 +15,12 @@ summary: "My ICS 314 team's webpage"
 For my ICS 314 class, our final project was to create a website that would benefit the UH Manoa community. We had to form a group of four and we decided to create a webpage called Manoa Trade Your Stuff. The purpose of this webpage is to allow UH Manoa students to be able to auction the items that they would like to sell. The buyer will then make an offer then meet in person at the university. It is inspired by Craigslist which is an auction site where people can sell their items or looks for gigs. Below are a few examples of what our website looks like.
 <hr>
 <h2> Landing Page </h2>
-They will have two options when they land on our webpage. The first is a sign-in page where if they are already an existing member they can log in. The other is a register account page where new users can create an account by entering their basic information such as name, email, student ID, phone number, etc. Once they sign in they will have access to the navbar where they can start using our site.
+When users land on our webpage they will be greeted with a beautiful landing page of our university. They will have two options when they land on our webpage. The first is a sign-in page where if they are already an existing member they can log in. The other is a register account page where new users can create an account by entering their basic information such as name, email, student ID, phone number, etc. Once they sign in they will have access to the navbar where they can start using our site.
 <img src="../img/landing.png" height = 400>
-<br>
-<h2> Item List Page </h2>
-The item list page serves as a hub for users to browse and search for items they are interested in. It is linked to the categories page, allowing users to easily filter and navigate to specific types of items. Upon selecting a category, the page displays a list of relevant items with key information such as the seller’s details, pricing, and any other relevant details. This makes it easy for users to quickly find the items they are looking for and make informed purchase decisions
-<img src="../img/listitem.png" height = 400>
 <br>
 <h2> My Contribution: Notify Admin Page </h2>
 My contribution was creating the The notify admin page which is where users can issue complaints. There are two components that need to be filled out. First, the user must enter the users that were involved in the incident. Secondly, the user must describe the whole situation in detail so that the admin can fully understand what the problem is and the best course of action to resolve the issue. After the user inputs all these components they enter a button that will submit it and will send it to the admin for inspection.
+<br>
 <img src="../img/report.png" height = 400>
 <hr>
 <h2> All in all </h2>
